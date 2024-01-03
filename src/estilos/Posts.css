@@ -23,46 +23,46 @@
 /* Media query para tablet */
 @media screen and (max-width: 1040px) {
   .contenedor-posts {
-      height: 250; /* Ajusta la altura automáticamente según el contenido */
+      height: 250; 
   }
 
   .imagen-posts {
-      width: 70%; /* Haz que la imagen ocupe todo el ancho del contenedor */
+      width: 70%; 
   }
 
   .contenedor-texto-posts {
-      padding: 8px; /* Ajusta el padding según sea necesario */
+      padding: 8px; 
       align-items: center;
       height: auto;
       text-align: center;
   }
 
   .frase-posts {
-      font-size: 0.8rem; /* Ajusta el tamaño de fuente según sea necesario */
+      font-size: 0.8rem; 
   }
    .h1 {
-  font-size: 23px; /* Ajusta el tamaño de fuente según sea necesario */
+  font-size: 23px; 
   }
 }
  
 /* Media query para celular */
 @media screen and (max-width: 600px) {
   .contenedor-posts {
-      height: 200px; /* Ajusta la altura automáticamente según el contenido */
+      height: 200px; 
   }
 
   .contenedor-texto-posts {
-      padding: 5px; /* Ajusta el padding según sea necesario */
+      padding: 5px; 
       align-items: center;
       height: auto;
       text-align: center;
   }
 
   .frase-posts {
-      font-size: 0.5rem; /* Ajusta el tamaño de fuente según sea necesario */
+      font-size: 0.5rem; 
   }
 
   .h1 {
-    font-size: 20x; /* Ajusta el tamaño de fuente según sea necesario */
+    font-size: 20x; 
   }
 }
