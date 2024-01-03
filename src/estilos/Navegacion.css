@@ -19,8 +19,8 @@
   
 
   .contenedor-navegacion a {
-      font-size: 1.3rem; /* Ajusta el tamaño de fuente según sea necesario */
-      margin: 0px 20px 0px 20px; /* Ajusta los márgenes según sea necesario */
+      font-size: 1.3rem; 
+      margin: 0px 20px 0px 20px;
   }
 }
 
@@ -29,8 +29,8 @@
 
 
   .contenedor-navegacion a {
-      font-size: 0.8rem; /* Ajusta el tamaño de fuente según sea necesario */
-      margin: 0px 10px 0px 10px; /* Ajusta los márgenes según sea necesario */
-      line-height: 2rem; /* Ajusta la altura de línea según sea necesario */
+      font-size: 0.8rem; 
+      margin: 0px 10px 0px 10px;
+      line-height: 2rem; /
   }
 }
